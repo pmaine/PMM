@@ -14,7 +14,7 @@ git add -A   <--- to add the changed files
 git status   <--- new file would now be in git, but not committed  
 
   Might stay in this state for several changes
-  When ready to make the changes trackable:
+  When ready to make the changes trackable with these commands
 
 git commit -m "Comment- make it something meaningful"
 git status   <--- review where you're at in the process
