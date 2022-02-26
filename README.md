@@ -18,7 +18,7 @@ When ready to make the changes trackable with these commands<br />
 
 **git commit -m "Comment: but not too long"**<br />
 **git status**   Note: review where you're at in the process<br />
-**git push origin main*  Note: push all the commits to github each day<br />
+**git push origin main**  Note: push all the commits to github each day<br />
 
 
 [This is how to delete a file from Fusion 360:](https://www.reddit.com/r/Fusion360/comments/lnhr04/delete_project_in_fusion_360/)
