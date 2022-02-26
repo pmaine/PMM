@@ -1,7 +1,7 @@
 # PMM
 
------------------------------------------------------------
-common git commands (typically done in this order):
+
+Common git commands (typically done in this order):
 
 To start work... with everything in sync with others:
 
@@ -19,7 +19,7 @@ git status   <--- new file would now be in git, but not committed
 git commit -m "Comment- make it something meaningful"
 git status   <--- review where you're at in the process
 git push origin main  <--- should push all the commits to github
---------------------------------------------------------------
+
 
 This is how to delete a file from Fusion 360:
 
