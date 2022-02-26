@@ -1,24 +1,24 @@
-# PMM
+# PMM-3D
 
 
 Common git commands (typically done in this order):
 
-To start work... with everything in sync with others:
+To start work... sync your local repository with repository in github:
 
-git pull origin main  <--- pull everything down to make sure you're in synce
+git pull origin main  Note: pull changes down from github to make sure you're in sync
 
 Now make changes... then move changes through to github.  
 
-git status   <--- review before taking action
-git add -A   <--- to add the changed files
-git status   <--- new file would now be in git, but not committed  
+git status   Note: review before taking action
+git add -A   Note: to add the changed files
+git status   Note: new file would now be in git staging area , but not committed  
 
-  Might stay in this state for several changes
-  When ready to make the changes trackable with these commands
+Might stay in this state for several changes
+When ready to make the changes trackable with these commands
 
-git commit -m "Comment- make it something meaningful"
-git status   <--- review where you're at in the process
-git push origin main  <--- should push all the commits to github
+git commit -m "Comment: make it something meaningful but not too long"
+git status   Note: review where you're at in the process
+git push origin main  Note: should push all the commits to github each day
 
 
 This is how to delete a file from Fusion 360:
