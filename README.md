@@ -22,3 +22,4 @@ When ready to make the changes trackable with these commands<br />
 
 
 [This is how to delete a file from Fusion 360:](https://www.reddit.com/r/Fusion360/comments/lnhr04/delete_project_in_fusion_360/)
+[Markdown Cheat Sheet](https://www.thesawmillgrinders.com/index.php/2022/01/21/how-to-write-readme-md-using-markdown/)
